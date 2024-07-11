@@ -6,4 +6,4 @@ Phase 1 Project during my time at Flatiron School. This is an exploratory data a
 
 - **[Source](./source):** includes the eda source code and associated files with the project.
 
-Dataset: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
+[Click here for the Dataset](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales)
